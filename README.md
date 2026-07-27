@@ -35,7 +35,7 @@ The Vrinda Store wants to create an annual sales report for **2022** so that the
 ## **Dashboard**  
 
 The interactive dashboard gives a visual summary of the KPIs.  
-**[Vrinda_store_report.png](./Vrinda_store_report.png)**  
+**[Vrinda_store_report.png](Dashboard_Sales.png)**  
 
 ---
 
