@@ -13,7 +13,7 @@ The Vrinda Store wants to create an annual sales report for **2022** so that the
 ## **Dataset Used**
 
 - **Name:** Vrinda Store Data  
-- **File:** [Vrinda_store_data_analysis_report.xlsx](./Vrinda_store_data_analysis_report.xlsx)  
+- **File:** [Vrinda_store_data_analysis_report.xlsx](Vrinda Store Data Analysis Report.xlsx)  
 
 ---
 
