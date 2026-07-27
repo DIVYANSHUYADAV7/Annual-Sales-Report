@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis (Interactive Dashboard using MS Excel)
 
-![Dashboard Screenshot](./Vrinda_store_report.png)
+![Dashboard Screenshot](Dashboard_Sales.png)
 
 ---
 
